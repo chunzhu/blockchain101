@@ -1,4 +1,4 @@
-//Learning blockchain from https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+#Learning blockchain from https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 
 class Blockchain(object):
 	def __init__(self):
